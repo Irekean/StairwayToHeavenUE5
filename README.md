@@ -34,6 +34,3 @@ https://opengameart.org/content/platformer-art-deluxe
 
 Main menu screen from pixbay
 https://pixabay.com/it/photos/nuvole-cumulo-cielo-natura-2329680/?download
-
-GoodSky from UNEASY Games @ unrealengine marketplace
-https://www.unrealengine.com/marketplace/en-US/product/good-sky
