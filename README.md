@@ -2,7 +2,10 @@
 
 Stairway to the Afterlife is a Unreal Engine 5 Project made for the GameDev.Tv 2022 GameJam in under than 10 days.
 
-The game is published on itch.io on the following link:
+## Play the game
+
+The game can be downloaded by itch.io or on the  
+https://irekean.itch.io/stairway-to-the-afterlife
 
 ## Public Assets Used
 
